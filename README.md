@@ -10,7 +10,7 @@ git push -u origin master
 <h2>About</h2>
 </head>
 <body>
-<p>This is where you tell the world how awesome you are.</p>
+<p>Im Koltn Radicke and im 16 years old. My intrests are fishing, hunting and being outdoors.</p>
  <html>
 
 
