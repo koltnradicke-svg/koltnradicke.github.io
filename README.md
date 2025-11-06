@@ -1,8 +1,6 @@
 # Koltn Radicke
-git init
-git add .
 <head>
-this is my website
+This is my personal website were I can explore Github. 
 <head>
 <html>
 <head>
