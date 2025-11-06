@@ -1,7 +1,7 @@
 # Koltn Radicke
 git init
 git add .
-git commit -m "First commit"
+<head>
 this is my website
 <head>
 <html>
