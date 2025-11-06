@@ -1,4 +1,4 @@
-# koltnradicke.github.io
+# Koltn Radicke
 git init
 git add .
 git commit -m "First commit"
