@@ -1,4 +1,3 @@
-index.html
 # Koltn Radicke
 <head>
 This is my personal website were I can explore Github. 
