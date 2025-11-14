@@ -1,4 +1,4 @@
-Inder.html
+https://github.com/koltnradicke-svg/koltnradicke.github.io/tree/main
 # Koltn Radicke
 <head>
 This is my personal website were I can explore Github. 
