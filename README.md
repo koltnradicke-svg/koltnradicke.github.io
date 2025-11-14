@@ -1,3 +1,6 @@
+git remote add origin https://github.com/koltnradicke-svg/Koltnr.git
+git branch -M main
+git push -u origin main
 # Koltn Radicke
 <head>
 This is my personal website were I can explore Github. 
